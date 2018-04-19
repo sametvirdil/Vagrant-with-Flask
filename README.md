@@ -8,7 +8,7 @@ http://www.vagrantup.com/downloads.html
 https://github.com/sametvirdil/assignment/ 
 5.	vagrant up command under this 1vagbox folder will bring up the related vagrant box VM.  During initalizing the vagrant machine, the installation of the required python-pip and flask packages will also be automatically installed with the help of the bash script under the corresponding folder of 1vagbox.
 6.	Wait during the vagrant up command finishes all the required tasks and after completion you may check from your browser with the url below
-http://localhost:5050/  and  see your app running
+http://localhost:5555/  and  see your app running
 
 
 Some change or update to the Flask app code
