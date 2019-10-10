@@ -30,7 +30,7 @@ export FLASK_APP=/var/www/hello.py
 flask run --host=0.0.0.0 &
 
 
-Some Basic Info About Vagrant Usage
+P.S.: Some Basic Info About Vagrant Usage
 
 vagrant halt command stops a Vagrant machine, we may use with -f  parameter when needed to force to stop.
 
